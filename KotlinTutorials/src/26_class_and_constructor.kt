@@ -4,7 +4,7 @@
 * */
 fun main(args: Array<String>) {
 
-    var student = Student("Steve", 10)
+    var student = Student("Ammi", 10)
 
     println(student.id)
 }

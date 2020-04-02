@@ -4,7 +4,7 @@
 * */
 fun main(args: Array<String>) {
 
-    var personObj = Persson("Steve")
+    var personObj = Persson("Ammi")
 
     personObj.display()
 }

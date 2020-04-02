@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
 
     var person = Indian()       // Allowed. Abstract Super class reference variable
                                 // pointing to child class object.
-    person.name = "Steve"
+    person.name = "Ammi"
     person.eat()
     person.goToSchool()
 }

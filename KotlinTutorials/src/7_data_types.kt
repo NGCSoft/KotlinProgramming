@@ -6,7 +6,7 @@
 fun main(args: Array<String>) {
 
     var name: String
-    name = "Kevin"
+    name = "Sateesh"
 
     var age: Int = 10
     var myAge = 10

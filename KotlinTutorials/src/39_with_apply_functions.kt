@@ -8,12 +8,12 @@ fun main(args: Array<String>) {
     var person = Perrson()
 
     with(person) {
-        name = "Steve"
+        name = "Ammi"
         age = 23
     }
 
     person.apply {
-        name = "Steve"
+        name = "Ammi"
         age = 23
     }.startRun()
 

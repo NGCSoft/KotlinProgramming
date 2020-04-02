@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="148cca91-4e65-4e66-9b4e-5ab5379b7b4a" name="Default Changelist" comment="" />
+    <list default="true" id="148cca91-4e65-4e66-9b4e-5ab5379b7b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26_class_and_constructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/26_class_and_constructor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/30_abstract_class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/30_abstract_class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/39_with_apply_functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/39_with_apply_functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/44_filter_map_sorting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/44_filter_map_sorting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/46_null_safety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/46_null_safety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/5_kotlin_basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/5_kotlin_basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/6_kotlin_basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/6_kotlin_basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/7_data_types.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/7_data_types.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Zyas80XLBXivjUZUITp5sqFVkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,5 +45,11 @@
       <updated>1585813991677</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="0" width="709" height="728" key="find.popup" timestamp="1585817777183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="709" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585817777183" />
   </component>
 </project>

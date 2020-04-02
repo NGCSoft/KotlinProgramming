@@ -2,7 +2,7 @@
 fun main(args: Array<String>) {
 
     // WAP to find out length of name
-    val name: String? = "Steve"     // change it to null and see the effect in output
+    val name: String? = "Ammi"     // change it to null and see the effect in output
 
     // 1. Safe Call ( ?. )
     // Returns the length if 'name' is not null else returns NULL
